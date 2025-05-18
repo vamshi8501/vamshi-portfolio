@@ -1,14 +1,13 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import Hero from './components/Hero';
 import About from './components/About';
+import Experience from './components/Experience';
+import Education from './components/Education';
 import Projects from './components/Projects';
 import Skills from './components/Skills';
 import ResumeDownload from './components/ResumeDownload';
-import Experience from './components/Experience';
-import Education from './components/Education';
 import Contact from './components/Contact';
-
 
 function App() {
   return (
@@ -17,15 +16,15 @@ function App() {
         <Routes>
           <Route path="/" element={
             <>
-            <Hero />
-            <About />
-            <Skills />
-            <Projects />
-            <Experience />
-            <Education />
-            <ResumeDownload />
-            <Contact />
-          </>
+              <Hero />
+              <About />
+              <Skills />
+              <Projects />
+              <Experience />
+              <Education />          
+              <ResumeDownload />
+              <Contact />
+            </>
           } />
         </Routes>
       </div>

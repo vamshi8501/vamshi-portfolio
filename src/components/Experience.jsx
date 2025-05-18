@@ -14,7 +14,7 @@ const Experience = () => {
         <div className="bg-gray-800 p-6 rounded-xl shadow-md">
           <h3 className="text-xl font-semibold text-white">Junior Machine Learning Engineer</h3>
           <p className="text-blue-300">Amnet Digital</p>
-          <p className="text-gray-400 mb-2">2023 - Present</p>
+          <p className="text-gray-400 mb-2">Apr 2023 - Present</p>
           <p className="text-gray-300">Building LLM chatbots, optimization engines, and data-centric AI apps.</p>
         </div>
       </motion.div>
