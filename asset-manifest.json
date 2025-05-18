@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vamshi-portfolio/static/css/main.341b758a.css",
-    "main.js": "/vamshi-portfolio/static/js/main.02bcb261.js",
+    "main.js": "/vamshi-portfolio/static/js/main.25a79f99.js",
     "static/js/453.2f5fa68a.chunk.js": "/vamshi-portfolio/static/js/453.2f5fa68a.chunk.js",
     "index.html": "/vamshi-portfolio/index.html",
     "main.341b758a.css.map": "/vamshi-portfolio/static/css/main.341b758a.css.map",
-    "main.02bcb261.js.map": "/vamshi-portfolio/static/js/main.02bcb261.js.map",
+    "main.25a79f99.js.map": "/vamshi-portfolio/static/js/main.25a79f99.js.map",
     "453.2f5fa68a.chunk.js.map": "/vamshi-portfolio/static/js/453.2f5fa68a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.341b758a.css",
-    "static/js/main.02bcb261.js"
+    "static/js/main.25a79f99.js"
   ]
 }
